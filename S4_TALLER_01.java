@@ -3,7 +3,7 @@ import java.net.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TCPServer {
+public class S4_TALLER_01 {
     private static List<Integer> sharedList = new ArrayList<>();
 
     public static void main(String[] args) {
