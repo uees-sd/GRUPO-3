@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-public class  GuardaparqueDigital {
+public class  Proyecto_FINAL_S5_GuardaparqueDigital {
 
     private static Scanner scanner = new Scanner(System.in);
     private static ArrayList<String[]> usuarios = new ArrayList<>();
